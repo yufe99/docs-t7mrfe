@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cufpd3.shahadishraq.com/sitemap.xml
